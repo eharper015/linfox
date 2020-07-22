@@ -1,0 +1,5 @@
+The Linfox theme package is now installed on your computer, 
+To complete installation,
+-set the default font to pixeloperatormono
+-set the icon theme to flatery-dark
+-set the theme to be ultimate-dark-red
